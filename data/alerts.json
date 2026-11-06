@@ -1,0 +1,12 @@
+[
+  {
+    "airline": "IndiGo",
+    "source": "Hyderabad",
+    "destination": "Delhi",
+    "stops": 0,
+    "dep_time": "07:30",
+    "journey_date": "2026-12-15",
+    "target": 8000,
+    "created": "2026-10-31"
+  }
+]
